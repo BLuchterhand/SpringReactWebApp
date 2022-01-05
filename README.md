@@ -9,7 +9,7 @@ Java version 11.0.11
 npm version 8.1.4
 
 # Functioning
-Run "SpringbootBackendApplication" in the Java code, and npm start within "src\main\ui\react-frontend".
+Run "SpringbootBackendApplication" in the Java code, and npm start within "src\main\ui-frontend\react-frontend".
 
 Browse to "localhost:3000":
 
